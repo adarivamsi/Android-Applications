@@ -1,0 +1,5 @@
+<resources>
+    <string name="receiver_name">Lock - blocca schermo</string>
+    <string name="receiver_expl">Consentire a "Lock" di bloccare lo schermo?</string>
+    <string name="receiver_desc">Consente di bloccare lo schermo</string>
+</resources>
