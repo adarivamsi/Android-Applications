@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">bookapp</string>
+    <string name="intro_name">Staff Meeting Online Feedback</string>
+    <string name="intro_enter">Enter</string>
+    <string name="name">Name</string>
+    <string name="hint_password">Hint Password</string>
+    <string name="login">Login</string>
+    <string name="hint_dob">DOB</string>
+    <string name="hint_gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="btn_sign_up">Sign UP</string>
+    <string name="btn_link_login">Link</string>
+    <string name="email">Email</string>
+    <string name="Nam">Name</string>
+</resources>
