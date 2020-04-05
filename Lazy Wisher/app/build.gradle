@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 23
+    buildToolsVersion '25.0.0'
+    defaultConfig {
+        applicationId "com.github.yeriomin.smsscheduler"
+        minSdkVersion 16
+        targetSdkVersion 25
+        versionCode 4
+        versionName "0.4"
+    }
+    lintOptions {
+        disable 'GoogleAppIndexingWarning', 'GoogleAppIndexingApiWarning', 'MissingTranslation'
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    productFlavors {
+    }
+}
+dependencies {
+    compile 'com.android.support:appcompat-v7:23.4.0'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+}

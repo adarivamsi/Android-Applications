@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="iconika-blue-icons">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pr/icons/iconika-blue-icons.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
