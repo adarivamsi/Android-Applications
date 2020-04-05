@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\adari\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="E:\ProProjects\Android\PocketMaps\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_c0dcdac0dff30722675cf7f76845f7fba0bca2f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adari\.gradle\caches\modules-2\files-2.1\org.mapsforge\mapsforge-map-reader\0.5.0\c83adf0620fb164d9f85312f0d8ed11aa7e3d79b\mapsforge-map-reader-0.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c83adf0620fb164d9f85312f0d8ed11aa7e3d79b">
+        <dex dex="E:\ProProjects\Android\PocketMaps\app\build\intermediates\pre-dexed\debug\mapsforge-map-reader-0.5.0_a52820160e9a5e38715df6eee8b7f97653589078.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adari\.gradle\caches\modules-2\files-2.1\net.sf.trove4j\trove4j\3.0.3\42ccaf4761f0dfdfa805c9e340d99a755907e2dd\trove4j-3.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42ccaf4761f0dfdfa805c9e340d99a755907e2dd">
+        <dex dex="E:\ProProjects\Android\PocketMaps\app\build\intermediates\pre-dexed\debug\trove4j-3.0.3_3dfdd18371a9f92cc8898e660f6f4fe61abbd1a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\net\sf\kxml\kxml2\2.3.0\kxml2-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ccbc77a5fd907ef863c29f3596c6f54ffa4e9442">
+        <dex dex="E:\ProProjects\Android\PocketMaps\app\build\intermediates\pre-dexed\debug\kxml2-2.3.0_bf9411c82f3f7ced45d11ae31268a69ee59bd6dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adari\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-android\1.7.10\b285caf8445441b3811eb8dc0e45d88f5ddd3fea\slf4j-android-1.7.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b285caf8445441b3811eb8dc0e45d88f5ddd3fea">
+        <dex dex="E:\ProProjects\Android\PocketMaps\app\build\intermediates\pre-dexed\debug\slf4j-android-1.7.10_8e39ccfddb5029d7b3b283b06bb0d15c1e1e40bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adari\.android\build-cache\c5b91c1b0f55707c57b0bbba82bc2be7d3f4002f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="E:\ProProjects\Android\PocketMaps\app\build\intermediates\pre-dexed\debug\classes_ede469051b23ca57a1818e94bbba166423b66988.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adari\.gradle\caches\modules-2\files-2.1\org.mapsforge\mapsforge-core\0.5.0\a5aed689f1c0cfbd04729a5b0fa6d0c933fdf36d\mapsforge-core-0.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a5aed689f1c0cfbd04729a5b0fa6d0c933fdf36d">
+        <dex dex="E:\ProProjects\Android\PocketMaps\app\build\intermediates\pre-dexed\debug\mapsforge-core-0.5.0_6f21b98c06bd61b4f260ec50204059d469d41ef9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adari\.gradle\caches\modules-2\files-2.1\org.mapsforge\mapsforge-map-android\0.5.0\aa459921210123ec8b804df393f23fcb6aa72277\mapsforge-map-android-0.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa459921210123ec8b804df393f23fcb6aa72277">
+        <dex dex="E:\ProProjects\Android\PocketMaps\app\build\intermediates\pre-dexed\debug\mapsforge-map-android-0.5.0_c9844fd9d9b3f6e6654b21f09b2f9a0f5815e919.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adari\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.7.10\5b338f206827d88acd890739f400a9b7664e5984\slf4j-api-1.7.10.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5b338f206827d88acd890739f400a9b7664e5984">
+        <dex dex="E:\ProProjects\Android\PocketMaps\app\build\intermediates\pre-dexed\debug\slf4j-api-1.7.10_19933acd941162b13e355a448f27eb724d93e625.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adari\.android\build-cache\0fc536db6ac064990eadf4e20ca45ecd3e129410\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="E:\ProProjects\Android\PocketMaps\app\build\intermediates\pre-dexed\debug\classes_53acd8f4a91aa6eb9a8a652f389e1fc0d28bd6c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adari\.gradle\caches\modules-2\files-2.1\com.graphhopper\graphhopper\0.4.1\1bf6ba449a248065d42f337b231e01205189f59a\graphhopper-0.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1bf6ba449a248065d42f337b231e01205189f59a">
+        <dex dex="E:\ProProjects\Android\PocketMaps\app\build\intermediates\pre-dexed\debug\graphhopper-0.4.1_505f692786e8c4619a36cceee6b6701ccdd59a15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adari\.android\build-cache\6266d12b56fe278ef48f5aaa159c881466e5f4b9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37bf8de5b4f9e7e93006db783b9b3168e32e38e9">
+        <dex dex="E:\ProProjects\Android\PocketMaps\app\build\intermediates\pre-dexed\debug\classes_b4b4c307613f9786012f683cd001a5a693fe5274.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adari\.android\build-cache\81836272fa8197a7c1521ab3064b64e601a48068\output\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="E:\ProProjects\Android\PocketMaps\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_75d0119f3d2aa78ab2b2ccec148015bc1814c4f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adari\.gradle\caches\modules-2\files-2.1\org.mapsforge\mapsforge-map\0.5.0\1629b0a986fb57f6408ebad9ad466f01f691dcfb\mapsforge-map-0.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1629b0a986fb57f6408ebad9ad466f01f691dcfb">
+        <dex dex="E:\ProProjects\Android\PocketMaps\app\build\intermediates\pre-dexed\debug\mapsforge-map-0.5.0_98f08d95405cbb2f4c1a7e93e611e47464f7df43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adari\.gradle\caches\modules-2\files-2.1\com.caverock\androidsvg\1.2.2-beta-1\d98fcdbfa06bd8fcca1dab708c0468b9821f3ed9\androidsvg-1.2.2-beta-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d98fcdbfa06bd8fcca1dab708c0468b9821f3ed9">
+        <dex dex="E:\ProProjects\Android\PocketMaps\app\build\intermediates\pre-dexed\debug\androidsvg-1.2.2-beta-1_5feeb69fdb42ba9ae65f44400f135016fb28026e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adari\.android\build-cache\81836272fa8197a7c1521ab3064b64e601a48068\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="E:\ProProjects\Android\PocketMaps\app\build\intermediates\pre-dexed\debug\classes_92c3120ae6a6580875032fe6843d99aa71e4ced3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\adari\.android\build-cache\795a90dc4668ea155fdde4ea7d276344768041a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="E:\ProProjects\Android\PocketMaps\app\build\intermediates\pre-dexed\debug\classes_18067c80a057a49edceca801f0af04c7f5e2463a.jar" />
+    </item>
+
+</items>

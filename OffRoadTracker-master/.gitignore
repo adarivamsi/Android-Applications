@@ -1,0 +1,10 @@
+/app/src/main/res/values/google_maps_api.xml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+*.iml
+.idea/instapk.xml
+instapk.log*

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dialog_top_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:theme="@style/Theme.AppCompat.Dialog.Alert">
+
+    <EditText
+        android:id="@+id/dialog_edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="start"
+        android:gravity="center_horizontal"
+        android:singleLine="true"
+        android:inputType="textCapWords|textPersonName"
+        android:hint="@string/edit_markers_hint"
+        android:textColor="@color/dark_grey_text"
+        android:textColorHint="@color/medium_grey_text" />
+
+    <LinearLayout
+            android:id="@+id/inner_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <RadioGroup
+                android:id="@+id/radio_group_dialog"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:checkedButton="@id/interest_radio_button">
+
+                <RadioButton
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/interest"
+                    android:id="@id/interest_radio_button"
+                    android:textColor="@color/dark_grey_text"
+                    android:drawableRight="@drawable/ic_point_of_interest_48dp"
+                    android:background="@drawable/layout_background"
+                    android:layout_weight="1" />
+
+                <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/warning"
+                android:id="@+id/warning_radio_button"
+                android:textColor="@color/dark_grey_text"
+                android:drawableRight="@drawable/ic_warning_48dp"
+                android:background="@drawable/layout_background"
+                android:maxLines="1"
+                android:layout_weight="1" />
+
+                <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="@string/trail_start"
+                android:id="@+id/trail_start_radio_button"
+                android:textColor="@color/dark_grey_text"
+                android:drawableRight="@drawable/ic_trail_start_48dp"
+                android:background="@drawable/layout_background"
+                android:maxLines="1"
+                android:layout_weight="1" />
+
+                <RadioButton
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/obstacle"
+                    android:id="@+id/obstacle_radio_button"
+                    android:textColor="@color/dark_grey_text"
+                    android:drawableRight="@drawable/ic_obstacle_48dp"
+                    android:background="@drawable/layout_background"
+                    android:maxLines="1"
+                    android:layout_weight="1" />
+
+                <RadioButton
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:text="@string/dead_end"
+                    android:id="@+id/dead_end_radio_button"
+                    android:textColor="@color/dark_grey_text"
+                    android:drawableRight="@drawable/ic_dead_end_48dp"
+                    android:background="@drawable/layout_background"
+                    android:maxLines="1"
+                    android:layout_weight="1" />
+            </RadioGroup>
+
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

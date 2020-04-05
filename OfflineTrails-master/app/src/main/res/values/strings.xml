@@ -1,0 +1,15 @@
+<resources>
+  <string name="app_name">OfflineTrails</string>
+  <string name="access_token" translatable="false">pk.eyJ1IjoiY2FtbWFjZSIsImEiOiJjaW9vbGtydnQwMDAwdmRrcWlpdDVoM3pjIn0.Oy_gHelWnV12kJxHQWV7XQ</string>
+  <string name="download">Download</string>
+  <string name="map_list">Map List</string>
+  <string name="please_zoom_in_more">Please zoom in more</string>
+  <string name="ok">OK</string>
+  <string name="cancel">Cancel</string>
+  <string name="region_name">Region name</string>
+  <string name="region_name_toast">Name cannot be empty</string>
+  <string name="title_list">Downloaded Regions</string>
+  <string name="loading">Loading</string>
+  <string name="empty">Empty</string>
+  <string name="map_button_description">Load Map</string>
+</resources>
