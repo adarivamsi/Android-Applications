@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="wikitudesdk:@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/wikitudesdk.aar/60a79af716e2cfda33363e5a361d8a7e/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/wikitudesdk.aar/60a79af716e2cfda33363e5a361d8a7e/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
