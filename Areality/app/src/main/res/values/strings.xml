@@ -3,12 +3,12 @@
     <string name="app_name">Areality</string>
 
     <!-- Strings related to Facebook login -->
-    <string name="facebook_app_id">355089614990244</string>
-    <string name="fb_login_protocol_scheme">fb355089614990244</string>
+    <string name="facebook_app_id">fb key</string>
+    <string name="fb_login_protocol_scheme">f</string>
 
     <!-- Strings related to Twitter login -->
-    <string name="CONSUMER_KEY">1Vsh0AEVczjHcvV7yLhBRiGEz</string>
-    <string name="CONSUMER_SECRET">mCMF0FkLH5txrhPWjGzvQt4cO1Wcefv6B7cDjvVkPvMLvJ9wGM</string>
+    <string name="CONSUMER_KEY">Key</string>
+    <string name="CONSUMER_SECRET">Twitter API Key</string>
 
     <!-- Strings related to login & registration -->
     <string name="password">PASSWORD</string>
